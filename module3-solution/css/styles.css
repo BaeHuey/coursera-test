@@ -1,0 +1,35 @@
+
+.navbar-brand {
+	height:auto;
+  padding-top: 25px;
+}
+
+h2{margin-bottom: 20px;}
+
+.row{
+	background-color: grey
+}
+
+p {
+  font-family: Comic Sans MS;
+  color: black;
+  margin:20px;
+}
+
+#Chicken{
+	position: relative;
+	font-size: 20px;
+	text-align: center
+}
+
+#nav-list{
+	background-color: grey;
+}
+
+#nav-list >li>a {
+	color:white;
+}
+
+li:hover{
+	background-color:blue;
+}
